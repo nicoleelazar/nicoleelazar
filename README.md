@@ -6,7 +6,8 @@ While they’re not a reflection of how I write code now, I’ve kept a small se
 
 Since then, I’ve been working as a front-end developer, mainly in fintech, building complex, data-driven interfaces that deliver clean and engaging user experiences.
 
-My current tech stack includes React, TypeScript, JavaScript, HTML, CSS, MUI, and Figma.
+- My current tech stack includes React, TypeScript, JavaScript, HTML, CSS, MUI, and Figma.
 
-Previous design work samples on [Behance](https://www.behance.net/nicoleelazar).
-Previous 3D motion graphics [showreel](https://vimeo.com/299449183).
+- My previous design work samples on [Behance](https://www.behance.net/nicoleelazar).
+  
+- My previous 3D motion graphics [showreel](https://vimeo.com/299449183).
